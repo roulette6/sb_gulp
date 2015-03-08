@@ -1,0 +1,22 @@
+{
+  "name": "workflows",
+  "version": "0.0.1",
+  "description": "Gulp.js starter project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roulette6/sb_gulp.git"
+  },
+  "author": "Josue Martinez",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-compass": "^2.0.3",
+    "gulp-concat": "^2.5.2",
+    "gulp-connect": "^2.2.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jsonminify": "0.0.2",
+    "gulp-minify-html": "^1.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-util": "^3.0.4",
+  }
+}
